@@ -1,5 +1,5 @@
 # Intro to Optics - Dartmouth - Course Materials
-![Solar Spectrum](/solar_spectrum.png?raw=true "Solar Spectrum")  
+![Solar Spectrum](/solar_spectrum.jpg?raw=true "Solar Spectrum")  
 (image credit: N.A.Sharp, NOAO/NSO/Kitt Peak FTS/AURA/NSF).  
 
 [Course materials for the *Introduction to Optics* course I taught at Dartmouth College, Fall 2017]  
