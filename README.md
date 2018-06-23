@@ -2,7 +2,7 @@
 ![Solar Spectrum](/solar_spectrum.jpg?raw=true "Solar Spectrum")  
 (image credit: N.A.Sharp, NOAO/NSO/Kitt Peak FTS/AURA/NSF).  
 
-[Course materials for the *Introduction to Optics* course I taught at Dartmouth College, Fall 2017]  
+[Course materials from teaching *Introduction to Optics*, Dartmouth College, Fall 2017. Based on previous years' materials by Prof. Kevin Wright]  
 
 This course is mostly an introduction to classical optics, encompassing the theory of electromagnetic waves, optical systems, polarization, diffraction, interference, and Fourier transform methods. We will also discuss the consequences of the dual wave/particle nature of light, and how to treat light as if composed of rays (geometric optics) or waves (physical optics). Throughout the course we will touch on more advanced topics and discuss the underlying principles for several modern optical technologies and physical phenomena.  
 
