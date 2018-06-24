@@ -16,4 +16,4 @@ This course is mostly an introduction to classical optics, encompassing the theo
 | 6    | Interference | [PDF](/class_notes/class_notes-unit6.pdf) | [PDF](/class_slides/class_slides-unit6.pdf) \| [pptx](/class_slides/class_slides-unit6.pptx) |
 | 7    | Diffraction | [PDF](/class_notes/class_notes-unit7.pdf) | [PDF](/class_slides/class_slides-unit7.pdf) \| [pptx](/class_slides/class_slides-unit7.pptx) |
 | 8    | Fourier Optics | [PDF](/class_notes/class_notes-unit8.pdf) | [PDF](/class_slides/class_slides-unit8.pdf) \| [pptx](/class_slides/class_slides-unit8.pptx) |
-| 9    | Modern Optics | [PDF](/class_notes/class_notes-unit9.pdf) | [PDF](/class_slides/class_slides-unit9.pdf) \| [pptx](/class_slides/class_slides-unit9.pptx) |
+| 9    | Modern Optics | - | [PDF](/class_slides/class_slides-unit9.pdf) \| [pptx](/class_slides/class_slides-unit9.pptx) |
